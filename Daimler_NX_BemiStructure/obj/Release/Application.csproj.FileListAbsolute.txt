@@ -1,0 +1,16 @@
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\bin\Release\Daimler.NX.BemiStructure.dll
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\bin\Release\Daimler.NX.BemiStructure.pdb
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\obj\Release\ResolveAssemblyReference.cache
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\obj\Release\Daimler.NX.BemiStructure.dll
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\obj\Release\Daimler.NX.BemiStructure.pdb
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\obj\Release\Daimler.NX.BemiStructure.Properties.Resources.resources
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\obj\Release\GenerateResource.read.1.tlog
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\obj\Release\GenerateResource.write.1.tlog
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\DC_NX_Bemi\Daimler_NX_BemiStructure\bin\Release\Daimler.NX.BemiStructure.dll
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\DC_NX_Bemi\Daimler_NX_BemiStructure\bin\Release\Daimler.NX.BemiStructure.pdb
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\DC_NX_Bemi\Daimler_NX_BemiStructure\obj\Release\ResolveAssemblyReference.cache
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\DC_NX_Bemi\Daimler_NX_BemiStructure\obj\Release\Daimler.NX.BemiStructure.Properties.Resources.resources
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\DC_NX_Bemi\Daimler_NX_BemiStructure\obj\Release\GenerateResource.read.1.tlog
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\DC_NX_Bemi\Daimler_NX_BemiStructure\obj\Release\GenerateResource.write.1.tlog
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\DC_NX_Bemi\Daimler_NX_BemiStructure\obj\Release\Daimler.NX.BemiStructure.dll
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\DC_NX_Bemi\Daimler_NX_BemiStructure\obj\Release\Daimler.NX.BemiStructure.pdb

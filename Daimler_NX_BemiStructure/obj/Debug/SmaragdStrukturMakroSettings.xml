@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GeneralSettings>
+	 <Setting Key="ReferenceModelPart" Value="C:\tmp\model_GEORefPart.prt"/> 
+	 <Setting Key="ModelStartPart" Value="C:\Program Files\Daimler\NX85MP1_7\nx_server\start_apps\model_GEO1.prt"/>
+	 <Setting Key="ReferenceModelPartConfiguration_Name" Value="BEMI"/>
+	 <Setting Key="ReferenceModelPartConfiguration_BUnit" Value="MBC-PRODUCTION"/>	
+	 <Setting Key="ReferenceModelPartConfiguration_Department" Value="W068"/>   
+</GeneralSettings>

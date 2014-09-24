@@ -1,0 +1,5 @@
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\bin\Release\Daimler.NX.BemiStructure.dll
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\bin\Release\Daimler.NX.BemiStructure.pdb
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\obj\Release\ResolveAssemblyReference.cache
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\obj\Release\Daimler.NX.BemiStructure.dll
+C:\Projekte\Daimler_Bemi\DaimlerBemiStructure\Daimler_NX_BemiStructure\Daimler_NX_BemiStructure\obj\Release\Daimler.NX.BemiStructure.pdb
